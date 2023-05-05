@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../xampp/htdocs/public_html"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Users/gildw/OneDrive/Pulpit/Wizytowka---Technologie-Webowe-main"
+		},
+		{
+			"path": "../PROJEKT/EasyDrive-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Visual - projekty"
+	}
+}
